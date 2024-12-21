@@ -1,4 +1,4 @@
-## call your Node.js app locally as http://myapp.com/api instead of http://localhost:3000/api
+## call your backend app locally as http://myapp.com/api instead of http://localhost:3000/api
 
 ### Notes
 * 127.0.0.1 myapp.com
